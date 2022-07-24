@@ -27,7 +27,7 @@ public class Main : MonoBehaviour
     private PlayerMoveController _playerMoveController;
 
 
-    private void Awake()
+    private void Start()
     {
         InitializeModels();
         InitializeControllers();

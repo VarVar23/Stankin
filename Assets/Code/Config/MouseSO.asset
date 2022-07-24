@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae81ba2744a48994485c9aba9ec2053b, type: 3}
   m_Name: MouseSO
   m_EditorClassIdentifier: 
-  _mouseSens: 500
-  _minY: -50
+  _mouseSens: 350
+  _minY: -60
   _maxY: 45
